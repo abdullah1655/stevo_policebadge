@@ -28,8 +28,7 @@ files {
     'resource/web/index.html',
     'resource/web/*.css',
     'resource/web/*.js',
-    'resource/web/img/badge.png',
-    'resource/web/img/none.png',
+
     'resource/web/fonts/roboto/*.woff',
     'resource/web/fonts/roboto/*.woff2',
     'locales/*.json'
